@@ -65,3 +65,16 @@ In this project, you will learn how to deploy a web application on AWS through t
 ## Conclusion
 
 This project provides a hands-on approach to understanding the basics of deploying web applications on AWS. It covers essential skills in server setup, file management, and application deployment, serving as a valuable resource for anyone looking to get started with cloud computing.
+
+![Screenshot 2024-07-17 153439](https://github.com/user-attachments/assets/f4b5dc7e-219c-41d6-9b80-401b7f2fbddb)
+
+![Screenshot 2024-07-17 153412](https://github.com/user-attachments/assets/1e856b96-8bc5-44b7-ad03-2cdd222a0124)
+
+![Screenshot 2024-07-17 153859](https://github.com/user-attachments/assets/9d6ad3f9-853e-4951-952c-95065e51b3c3)
+
+![Screenshot 2024-07-17 153938](https://github.com/user-attachments/assets/cbee265a-b592-4e6a-977f-bb0f15a67c1e)
+
+
+
+
+
